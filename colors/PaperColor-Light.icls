@@ -2,10 +2,10 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.25" />
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="PragmataPro Mono" />
+  <option name="EDITOR_FONT_NAME" value="PragmataPro Mono Liga" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
+  <option name="CONSOLE_FONT_NAME" value="PragmataPro Mono Liga" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="ededed" />
