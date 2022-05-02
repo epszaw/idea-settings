@@ -69,6 +69,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="IdeaVIM">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="JBoss">
           <value>
             <PluginData>
@@ -630,6 +641,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.jetbrains.CyanTheme">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.jetbrains.codeWithMe">
           <value>
             <PluginData>
@@ -754,6 +777,18 @@
           <value>
             <PluginData>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.samdark.intellij-visual-studio-code-dark-plus">
+          <value>
+            <PluginData>
+              <option name="category" value="UI" />
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
