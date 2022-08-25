@@ -1,0 +1,24 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="RHTML" value="true" />
+      </map>
+    </option>
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>

@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
+    <notification groupId="scrolling-capabilities-debug" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

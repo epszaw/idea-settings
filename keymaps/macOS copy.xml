@@ -1,0 +1,35 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
+</keymap>
